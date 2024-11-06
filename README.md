@@ -1,4 +1,4 @@
-# Foda-se
+# Bem-Vindo ahahah
 
 <center>
 
@@ -18,18 +18,18 @@
 [![MySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)](https://www.mysql.com/) 
 [![WordPress](https://img.icons8.com/?size=100&id=13664&format=png&color=000000)](https://wordpress.com/pt-br/)
 
-<br><br>
+<br>
 
 Olá, meu nome é Gustavo  
 Aqui coloco alguns projetos e alguns exercícios proposto na faculdade ou curso aleatório que faço por ai  
 Se divirta ai :)  
 
-<br><br>
+<br>
 
 Sim todos nós gostamos dessa cidade  
 [![Aiuruoca](imagens/aiuruoca.jpg)](https://cdn.pensador.com/img/imagens/fi/md/fim_de_tarde_2_c.jpg?auto_optimize=low&width=655)
 
-<br><br>
+<br>
 
 ### Contatos:
 
