@@ -14,9 +14,7 @@
 [![WebStorm](https://img.icons8.com/?size=100&id=32sNCVhNAx9Y&format=png&color=000000)](https://www.jetbrains.com/pt-br/webstorm/) 
 [![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)](https://git-scm.com/) 
 [![Debian](https://img.icons8.com/?size=100&id=17838&format=png&color=000000)](https://www.debian.org/index.pt.html) 
-[![Apache](https://img.icons8.com/?size=100&id=xgChbMh3wYDY&format=png&color=000000)](https://www.apache.org/) 
-[![MySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)](https://www.mysql.com/) 
-[![WordPress](https://img.icons8.com/?size=100&id=13664&format=png&color=000000)](https://wordpress.com/pt-br/)
+
 
 <br>
 
